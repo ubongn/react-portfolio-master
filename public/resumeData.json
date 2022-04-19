@@ -1,17 +1,17 @@
 {
   "main": {
     "name": "Ubong Ntekim",
-    "occupation": "Jr Full Stack Developer",
-    "description": "Full Stack Developer by Day && Freelancer by Night.",
-    "image": "ubong.jpg",
-    "bio": "My name is Ubong, I'm a Full Stack  Developer. Currently I'm working at Bakorlabs",
+    "occupation": "Web Developer",
+    "description": "Web Developer by Day && Freelancer by Night.",
+    "image": "p2.jpg",
+    "bio": "My name is Ubong, I'm a Web Developer.",
     "contactmessage": "Get in touch with me to receive further details, anything else.",
-    "email": "ubong@bakorlabs.com",
+    "email": "ubongntekim@outlook.com",
     "phone": "+234 703 445 2085",
     "address": {
       "street": "36 Zone 6",
-      "city": "Lugbe AMAC",
-      "state": "Abuja FCT",
+      "city": "Abuja",
+      "state": "FCT",
       "zip": "900107"
     },
     "website": "http://www.timbakerdev.com",
