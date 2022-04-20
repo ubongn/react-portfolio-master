@@ -4,9 +4,9 @@
     "occupation": "Web Developer",
     "description": "Web Developer by Day && Freelancer by Night.",
     "image": "p2.jpg",
-    "bio": "My name is Ubong, I'm a Web Developer.",
+    "bio": "My name is Ubong, I am a web developer with a strong interest in projects requiring conceptual and analytical thinking. I enjoy designing websites with end-users in mind.",
     "contactmessage": "Get in touch with me to receive further details, anything else.",
-    "email": "ubongntekim@outlook.com",
+    "email": "ubongnt@gmail.com",
     "phone": "+234 703 445 2085",
     "address": {
       "street": "36 Zone 6",
@@ -18,9 +18,9 @@
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/ubongn",
-        "className": "fa fa-facebook"
+        "name": "twitter",
+        "url": "https://www.twitter.com/ubongn",
+        "className": "fa fa-twitter"
       },
       {
         "name": "linkedin",
@@ -28,14 +28,14 @@
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/ubongn/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
         "url": "http://github.com/ubongn",
         "className": "fa fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ubongn/",
+        "className": "fa fa-instagram"
       }
     ]
   },
@@ -50,72 +50,53 @@
     ],
     "work": [
       {
-        "company": "Bakorlabs",
-        "title": "Team Member && Full Stack Developer",
-        "years": "October 2020 - Present",
-        "description": "Developing Apps"
+        "company": "Nacrispools",
+        "title": "Web Developer",
+        "years": "April 2021",
+        "description": "Developing the company website"
       },
       {
-        "company": "IB_Online",
-        "title": "Web Developer",
-        "years": "April 2020 - October 2020",
-        "description": "Building  website."
+        "company": "Bakorlabs",
+        "title": "Team Member && Web Developer",
+        "years": "October 2020",
+        "description": "Developing Apps"
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "HTML5",
         "level": "100%"
       },
       {
-        "name": "NextJs",
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "100%"
+      },
+      {
+        "name": "NodeJS",
         "level": "95%"
-      },
-      {
-        "name": "Figma ",
-        "level": "100%"
-      },
-      {
-        "name": "Prisma",
-        "level": "80%"
-      },
-      {
-        "name": "Postgresql",
-        "level": "80%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg"
-        
+        "title": "Nacrispools",
+        "category": "Nacrispools (NextJS, ChakraUI )",
+        "image": "job1.png"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg"
-        
+        "title": "NFT Clone",
+        "category": "NFT Clone (ExpressJS, ReactJS, NodeJS)",
+        "image": "blingz-nft.png"
       },
       {
         "title": "Facebook Clone with React",
         "category": "Facebook Clone built with ReactJS",
         "image": "facebook-clone.png"
-       
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg"
-        
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg"
-        
       }
     ]
   },
