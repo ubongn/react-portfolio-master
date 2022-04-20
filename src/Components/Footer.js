@@ -23,7 +23,7 @@ const Footer = ({ data }) => {
             
             <li>
               Made by{" "}
-              <a title="Ubong" href="">
+              <a title="Ubong" href="/">
                 Ubong
               </a>
             </li>
